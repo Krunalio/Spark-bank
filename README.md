@@ -18,4 +18,4 @@ View all Customers .
 
 TO RUN PROJECT save the project in c/xampp/htdocs/ open xampp server. Start Apache and Mysql open php my admin and import the sql file in that. open chrome localhost/projectname/index.php.
 
-Check my website here: https://sparksvivek.000webhostapp.com
+Check my website here: https://sparksinn.000webhostapp.com/index.php
